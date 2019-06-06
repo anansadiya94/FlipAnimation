@@ -1,4 +1,7 @@
 # FlipAnimation
+[![Swift compatible](https://img.shields.io/badge/Swift-5.0-orange.svg)]()
+[![Platform compatible](https://img.shields.io/badge/platform-iOS-lightgrey.svg)]()
+
 The project about flipping the user image by tapping on it. By tapping the image; the image will flipped and the cell will be selected.
 
 Additionally, 3 buttons have been added, to approximate it to a mail app.
