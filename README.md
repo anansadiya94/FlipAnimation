@@ -12,3 +12,5 @@ Additionally, 3 buttons have been added, to approximate it to a mail app.
 Search bar was added also, to search and even select and delete searched cells.
 
 ## Enjoy it :) 
+
+For more info you can checkout the [post on Medium.](https://medium.com/@anansadiya/implementing-a-fun-flip-animation-for-ios-5f3b385855de?source=friends_link&sk=99b26a40e6ebe3a426ca75059cbbc758)
